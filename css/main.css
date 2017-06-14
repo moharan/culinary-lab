@@ -1,3 +1,41 @@
 body {
-	background-color: black;
+	margin: 0 auto;
+	padding: 0;
+}
+header {
+	background-color: #666;
+	height: 200px;
+}
+/*Our Values*/
+.ourvalues {
+
+}
+/*Meet Our Team*/
+.meetourteam {
+	background-color: #999;
+	height: 200px;
+}
+/*People*/
+.people {
+
+}
+/*Press*/
+.press {
+	background-color: #ccc;
+	height: 200px;
+}
+/*Subscribe*/
+.subscribe {
+	background-color: #333;
+	height: 100px;
+}
+/*Hours*/
+.hours {
+	background-color: orange;
+	height: 200px;
+}
+/*Menu*/
+.menu {
+	background-color: purple;
+	height: 200px;
 }
