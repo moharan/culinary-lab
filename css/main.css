@@ -14,6 +14,13 @@ header {
 .profile {
 	padding-top: 50px;
 }
+/*maqueta*/
+.fondoa {
+	background-color: red;
+}
+.fondob {
+	background-color: blue;
+}
 /*Nav*/
 .navbar-default {
     background-color: transparent;
@@ -41,17 +48,35 @@ header {
 }
 /*Meet Our Team*/
 .meetourteam {
-	background-color: #999;
-	height: 200px;
+	background-image: url(../img/bg-quote.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
+}
+.text01 {
+	padding-top: 100px;
+}
+.especial {
+	background-color: transparent;
+	border-color: white;
+	border-radius: 2px;
 }
 /*People*/
 .people {
+	background-color: whitesmoke;
+	padding-bottom: 75px;
 
 }
 /*Press*/
 .press {
-	background-color: #ccc;
-	height: 200px;
+	padding-top: 75px;
+	padding-bottom: 75px;
+
+}
+.color {
+	color: #FFBF00;
 }
 /*Subscribe*/
 .subscribe {
